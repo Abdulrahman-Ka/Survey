@@ -1,0 +1,58 @@
+body{
+    background-color: antiquewhite;
+    color: bisque;
+    background-blend-mode: luminosity;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1em;
+    margin: 2em 2.5em 1em 2.5em ;
+    background-image: url('https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80');
+    text-align: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#title{
+    
+
+}
+#descriptin{
+    /* font-size: +50%; */
+}
+fieldset{
+    position: relative;
+    float: inline-start;
+    background-blend-mode: lighten;
+    /* margin: 5em 9em; */
+    
+}
+form{
+    /* margin: 3em auto; */
+    /* margin-right: 25vw; */
+    width: 5em;
+    text-align: start;
+    margin: 0.8em 2.5em;
+    fill-opacity: 0;
+    background-color: transparent;
+    opacity: 0.8;
+    
+
+}
+
+/* .transparent{
+    zoom: 1;
+    filter: alpha(opacity=50);
+    opacity: 0.6;
+} */
+label{
+    display: block;
+    /* margin: 2px 0  1px 0px; */
+   
+}
+
+#input-checkbox{
+    /* display: list-item; */
+}
+#div-form{
+    /* margin: 2em auto 0.5em auto; */
+    
+}
