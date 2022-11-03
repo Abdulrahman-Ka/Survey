@@ -106,6 +106,9 @@ form{
     margin: 0 auto 1.25rem auto;
     padding: 0.25rem;
   }
+  div label{
+    margin: 0.4rem auto 0 auto;
+  }
   .form-control {
     display: block;
     width: 100%;
@@ -130,6 +133,9 @@ form{
   margin-right: 0.625rem;
   min-height: 1.25rem;
   min-width: 1.25rem;
+}
+input[name="prefer"]{
+  margin-right: 0.625rem;
 }
 #input-textarea {
     min-height: 120px;
